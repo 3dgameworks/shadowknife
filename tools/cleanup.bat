@@ -1,0 +1,1 @@
+rd /s /q "..\godot4\.godot"
