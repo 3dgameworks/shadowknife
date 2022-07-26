@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://2p76febnbek2"]
+[gd_scene load_steps=3 format=3 uid="uid://ca7qhw3lm7v5s"]
 
-[ext_resource type="PackedScene" uid="uid://hqyhr1k8pb1r" path="res://character_base.tscn" id="1_0dn2y"]
-[ext_resource type="ArrayMesh" uid="uid://oc5kawsh4jjr" path="res://level1.obj" id="2_1xkgb"]
+[ext_resource type="PackedScene" uid="uid://dr6ffnjs7uk6" path="res://scenes/character_base.tscn" id="1_0dn2y"]
+[ext_resource type="ArrayMesh" uid="uid://oc5kawsh4jjr" path="res://objects/level1.obj" id="2_1xkgb"]
 
 [node name="world" type="Node3D"]
 

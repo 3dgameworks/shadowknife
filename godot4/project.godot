@@ -11,9 +11,9 @@ config_version=5
 [application]
 
 config/name="shadowknife"
-run/main_scene="res://character_base.tscn"
+run/main_scene="res://scenes/character_base.tscn"
 config/features=PackedStringArray("4.0", "Vulkan Clustered")
-config/icon="res://icon.png"
+config/icon="res://textures/icon.png"
 
 [input]
 
