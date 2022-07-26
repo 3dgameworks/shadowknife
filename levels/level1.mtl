@@ -1,0 +1,8 @@
+# MTL written from P:\projects\sources\shadowknife\levels\level1.obj
+newmtl 1
+Kd 0.76962 0.761906 0.668832
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
