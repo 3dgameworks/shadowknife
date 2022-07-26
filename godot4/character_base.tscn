@@ -1,4 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://hqyhr1k8pb1r"]
+[gd_scene load_steps=3 format=3 uid="uid://hqyhr1k8pb1r"]
+
+[ext_resource type="Script" path="res://character_mesh.gd" id="1_qwj54"]
 
 [sub_resource type="BoxMesh" id="BoxMesh_6km1m"]
 
@@ -8,3 +10,4 @@
 
 [node name="box" type="MeshInstance3D" parent="CharacterBody3D"]
 mesh = SubResource("BoxMesh_6km1m")
+script = ExtResource("1_qwj54")
